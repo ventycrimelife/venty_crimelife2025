@@ -1,3 +1,3 @@
 # venty_crimelife2025
 
-Mainmenu neu gemacht, bug fixes
+Deathscreen / Killfeed fertig gemacht. 2 Leak vom Server ist draußen
